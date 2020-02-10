@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPasswordsActivity</string>
+    <string name="ok">Ok</string>
+    <string name="passwords">Passwords:</string>
+    <string name="wrongTitle">Wrong password</string>
+    <string name="wrongMsg">Try again!</string>
+    <string name="spinnerprompt">Passwords</string>
+    <string name="changepass">Change password</string>
+    <string name="promptpass">Neues Passwort</string>
+    <string name="promptpassneu">Passwort wiederholen</string>
+    <string name="addpassword">Add</string>
+</resources>

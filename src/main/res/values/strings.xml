@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyPasswordsActivity</string>
+    <string name="ok">Ok</string>
+    <string name="passwords">Passwörter:</string>
+    <string name="wrongTitle">Falsches Passwort!</string>
+    <string name="wrongMsg">Versuch\'s nochmal</string>
+    <string name="spinnerprompt">Passwörter</string>
+    <string name="changepass">Passwort ändern</string>
+    <string name="promptpass">Neues Passwort:</string>
+    <string name="promptpassneu">Passwort wiederholen:</string>
+    <string name="addpassword">Hinzufügen</string>
+</resources>
